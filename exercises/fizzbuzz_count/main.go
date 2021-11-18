@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+// Problem statement: Given a string S, count the number of instances of "fizz", "buzz", and "fizzbuzz" in S
+
 func main() {
 
 	strs := []string{
